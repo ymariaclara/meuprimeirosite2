@@ -13,6 +13,8 @@ h1{
 
 
     
-p{
+.textos{
     color: white;
+    font-size: 30px;
+    text-align: center;
 }
