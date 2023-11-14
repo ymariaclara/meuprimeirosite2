@@ -99,5 +99,6 @@ h2 {
  }
  #item3 {
     background-image: url(https://images.pexels.com/photos/6923459/pexels-photo-6923459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
- }
+    background-size: cover;
+}
  
