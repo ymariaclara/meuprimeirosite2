@@ -86,4 +86,9 @@ h2 {
     border-radius: 15px;
     padding-top: 2%;
     box-shadow: 5px 5px #000000;
+
+}
+
+#item1 {
+    background-image: url(https://images.pexels.com/photos/1319461/pexels-photo-1319461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
 }
