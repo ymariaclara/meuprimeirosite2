@@ -92,5 +92,12 @@ h2 {
 #item1 {
     background-image: url(https://images.pexels.com/photos/2767612/pexels-photo-2767612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
-
 }
+ #item2 {
+    background-image: url(https://images.pexels.com/photos/1661837/pexels-photo-1661837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+ }
+ #item3 {
+    background-image: url(https://images.pexels.com/photos/6923459/pexels-photo-6923459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+ }
+ 
